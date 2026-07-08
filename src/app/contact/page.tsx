@@ -4,7 +4,7 @@ import Button from "@/components/Button";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "Get in touch with Gisela — whether you want to collaborate, ask a question, or just say hello.",
+    "Get in touch with Sage — whether you want to collaborate, ask a question, or just say hello.",
 };
 
 export default function ContactPage() {
@@ -90,9 +90,9 @@ export default function ContactPage() {
             </div>
 
             {[
-              { icon: "📧", label: "Email", value: "gisela@example.com" },
-              { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/gisela" },
-              { icon: "🐙", label: "GitHub", value: "github.com/giselacampillo" },
+              { icon: "📧", label: "Email", value: "sage@example.com" },
+              { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/sage" },
+              { icon: "🐙", label: "GitHub", value: "github.com/sage" },
               { icon: "📍", label: "Location", value: "Available Remotely" },
             ].map(({ icon, label, value }) => (
               <div

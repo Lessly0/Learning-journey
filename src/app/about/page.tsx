@@ -4,7 +4,7 @@ import Button from "@/components/Button";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Learn more about Gisela — her background, skills, and what drives her passion for software development.",
+    "Learn more about Sage — her background, skills, and what drives her passion for software development.",
 };
 
 const skills = [
@@ -46,7 +46,7 @@ export default function AboutPage() {
           <div>
             <h1 className="text-4xl font-bold mb-3">About Me</h1>
             <p className="text-[var(--muted)] text-lg leading-relaxed">
-              I&apos;m Gisela, a self-driven developer based in the world of
+              I&apos;m Sage, a self-driven developer based in the world of
               code. I started my journey out of curiosity and it quickly became
               a passion. I believe in learning by building, sharing what I know,
               and never stopping growing.

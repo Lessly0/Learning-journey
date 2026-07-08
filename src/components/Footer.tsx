@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
           <div>
             <h3 className="text-lg font-bold text-[var(--primary)] mb-2">
-              Gisela<span className="text-[var(--secondary)]">.dev</span>
+              Sage<span className="text-[var(--secondary)]">.dev</span>
             </h3>
             <p className="text-sm text-gray-400">
               Documenting my journey from curious learner to confident developer.
@@ -39,7 +39,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} Gisela Campillo. Built with Next.js & Tailwind CSS.
+          © {new Date().getFullYear()} Sage. Built with Next.js & Tailwind CSS.
         </div>
       </div>
     </footer>

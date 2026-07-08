@@ -4,7 +4,7 @@ import Button from "@/components/Button";
 export const metadata: Metadata = {
   title: "Home",
   description:
-    "Welcome to Gisela's learning journey — a developer in the making, passionate about frontend, backend, and mobile development.",
+    "Welcome to Sage's learning journey — a developer in the making, passionate about frontend, backend, and mobile development.",
 };
 
 export default function HomePage() {
@@ -17,7 +17,7 @@ export default function HomePage() {
             Welcome to my world
           </p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-            Hi, I&apos;m <span className="underline decoration-wavy decoration-white/50">Gisela</span> 👋
+            Hi, I&apos;m <span className="underline decoration-wavy decoration-white/50">Sage</span> 👋
           </h1>
           <p className="text-lg sm:text-xl opacity-90 max-w-2xl mx-auto mb-8">
             A passionate learner on a mission to become a full-stack developer.

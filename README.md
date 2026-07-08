@@ -1,4 +1,4 @@
-# Gisela's Learning Journey
+# Sage's Learning Journey
 
 A personal website documenting my path from curious learner to confident developer — covering frontend, backend, and mobile development.
 
@@ -33,7 +33,7 @@ This project is a multi-page Next.js website built as part of the SheCanCode boo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/giselacampillo/learning-journey.git
+git clone https://github.com/sage/learning-journey.git
 cd learning-journey
 
 # 2. Install dependencies
@@ -84,6 +84,3 @@ src/
 | `--foreground` | `#1a1a2e` | Body text |
 | `--muted` | `#6b7280` | Secondary text |
 
-## Live Deployment
-
-[View on Vercel →](https://your-deployment-url.vercel.app)

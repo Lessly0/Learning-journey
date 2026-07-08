@@ -5,11 +5,11 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "Gisela's Learning Journey",
-    template: "%s | Gisela's Learning Journey",
+    default: "Sage's Learning Journey",
+    template: "%s | Sage's Learning Journey",
   },
   description:
-    "Follow Gisela's journey from curious learner to confident developer — covering frontend, backend, and mobile development.",
+    "Follow Sage's journey from curious learner to confident developer — covering frontend, backend, and mobile development.",
 };
 
 export default function RootLayout({

@@ -23,7 +23,7 @@ export default function Navbar() {
             href="/"
             className="text-xl font-bold text-[var(--primary)] tracking-tight"
           >
-            Gisela<span className="text-[var(--secondary)]">.dev</span>
+            Sage<span className="text-[var(--secondary)]">.dev</span>
           </Link>
 
           {/* Desktop nav */}
